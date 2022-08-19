@@ -5,7 +5,7 @@ from utils import (record_audio_to_file,
 import time
 
 
-speak_text("Hi, my name is Mark. I am a chatbot designed by Ben")
+speak_text("Hi, my name is Eva. I am a chatbot designed by Ben")
 
 while True:
     print("Listening...")
